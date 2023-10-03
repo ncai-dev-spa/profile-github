@@ -1,5 +1,3 @@
-<p><a target="_blank" href="https://app.eraser.io/workspace/7ESdc81igVJCSys4Zri9" id="edit-in-eraser-github-link"><img alt="Edit in Eraser" src="https://firebasestorage.googleapis.com/v0/b/second-petal-295822.appspot.com/o/images%2Fgithub%2FOpen%20in%20Eraser.svg?alt=media&amp;token=968381c8-a7e7-472a-8ed6-4a6626da5501"></a></p>
-
 ---
 
 name: Bug report
@@ -41,4 +39,9 @@ If applicable, add screenshots to help explain your problem.
 Add any other context about the problem here.
 
 
+
+<p><a target="_blank" href="https://app.eraser.io/workspace/7ESdc81igVJCSys4Zri9" id="edit-in-eraser-github-link"><img alt="Edit in Eraser" src="https://firebasestorage.googleapis.com/v0/b/second-petal-295822.appspot.com/o/images%2Fgithub%2FOpen%20in%20Eraser.svg?alt=media&amp;token=968381c8-a7e7-472a-8ed6-4a6626da5501"></a></p>
+
 <!--- Eraser file: https://app.eraser.io/workspace/7ESdc81igVJCSys4Zri9 --->
+
+
