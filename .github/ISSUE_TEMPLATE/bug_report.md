@@ -1,11 +1,9 @@
 ---
-
 name: Bug report
 about: Create a report to help us improve
 title: Bug Title
 labels: reference labels
 assignees: Luis Navarro
-
 ---
 
 **Describe the bug**
